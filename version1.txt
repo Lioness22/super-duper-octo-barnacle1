@@ -1,3 +1,7 @@
 welcome
 hello world
 hai hello
+pattern printing
+logic program
+thankyou
+regards
